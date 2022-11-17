@@ -24,11 +24,12 @@ const Feedbackitem = () =>{
             <div className="text-dislay">
                 { text }
             </div>
-            <button onClick={ cambiarNota }>
+            <br />
+            <button className="btn" onClick={ cambiarNota }>
                 Cambiar nota
             </button>
-            <br />
-            <button onClick={ disminuir }>
+            <br /><br />
+            <button className="btn" onClick={ disminuir }>
                 Cambiar nota
             </button>
         </div>
