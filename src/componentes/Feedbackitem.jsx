@@ -27,6 +27,7 @@ const Feedbackitem = () =>{
             <button onClick={ cambiarNota }>
                 Cambiar nota
             </button>
+            <br />
             <button onClick={ disminuir }>
                 Cambiar nota
             </button>
