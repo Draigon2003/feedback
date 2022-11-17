@@ -3,8 +3,8 @@ import Feedbackitem from "./componentes/Feedbackitem";
 function App(){
     //objeto de estilos
     const HeaderStyles ={
-        backgroundColor:'blue',
-        color:'red'
+        backgroundColor:'white',
+        color:'black'
     }
 
     return(
